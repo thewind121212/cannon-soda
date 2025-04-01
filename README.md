@@ -23,7 +23,6 @@ This repo showcases a demo of the Payload 3.0 Beta running completely within Nex
 1. Payload now relies on the Web Request / Response APIs rather than the Node Request / Response
 1. Express can still be used with Next.js' Custom Server functionality
 1. Payload itself has slimmed down significantly and can now be fully portable, run anywhere. You can leverage the Payload Local API completely outside of Next.js if you want.
-1. The data layer, including the shape of the database Payload used and the API responses in 2.0, has not been affected whatsoever
 
 ### Work to come
 
